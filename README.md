@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🚀 Enterprise UI Automation Framework (Java + Selenium + TestNG + Allure)
 
@@ -36,3 +37,8 @@ Automated test runs on push with Allure report integration.
 
 ## 🖼 Allure Reporting
 Add `@Step`, `@Feature`, `@Severity` annotations in tests for traceability.
+=======
+# Enterprise UI Automation Framework
+
+Refer to project description.
+>>>>>>> 556d15fd8f7157a65758237a78f858b3a16ae180
